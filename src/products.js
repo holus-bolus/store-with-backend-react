@@ -1,0 +1,38 @@
+export const products = [
+    {
+        id: 1,
+        name: "iPhone 12",
+        price: 700,
+        image: "https://jabko.ua/image/cache/catalog/products/2022/04/081325/iphone-12-blue-select-2020-400x400.jpg",
+    },
+    {
+        id: 2,
+        name: "iPhone 14 Pro Max",
+        price: 2090,
+        image: "https://content2.rozetka.com.ua/goods/images/big/284924197.jpg",
+    },
+    {
+        id:3,
+        name:'Air Pods',
+        price: 170,
+        image:'https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/import/95900754243468.jpg'
+    },
+    {
+        id:4,
+        name:'Galaxy S21 Ultra 12/128GB',
+        price: 950,
+        image:'https://content1.rozetka.com.ua/goods/images/big/289050989.png'
+    },
+    {
+        id:5,
+        name:'Intel Core i9-10980XE Extreme Edition',
+        price: 1560,
+        image:'https://content.rozetka.com.ua/goods/images/big/310283123.jpg'
+    },
+    {
+        id:6,
+        name:'AMD Ryzen 9 7950X3D',
+        price: 1070,
+        image:'https://content.rozetka.com.ua/goods/images/big/356524663.jpg'
+    },
+];
